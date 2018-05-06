@@ -1,3 +1,5 @@
+<p><i>Code available on request.</i></p>
+
 In-Game Screen 
 <br />
 *Outdated image, all objects are placed in the correct locations and can finally be deemed a somewhat finished game.*
